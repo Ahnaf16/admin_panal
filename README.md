@@ -1,4 +1,4 @@
-# Web App : [Admin Panal Demo](https://ahnaf16.github.io)
+# Web App : [Admin Panal Demo](https://ahnaf16.github.io/admin_panal/)
 
 ## About
 
