@@ -18,19 +18,19 @@ This is a demo web app I am working on. This is a web app created using [Flutter
 
 ### Add Product
 
-![add_product](https://github.com/Ahnaf16/ahnaf16.github.io/blob/main/assets/img/addProduct.png?raw=true)
+![add_product](https://github.com/Ahnaf16/admin_panal/blob/main/assets/img/addProduct.png?raw=true)
 
 ### Order List
 
-![order_list](https://github.com/Ahnaf16/ahnaf16.github.io/blob/main/assets/img/orderlist.png?raw=true)
+![order_list](https://github.com/Ahnaf16/admin_panalblob/main/assets/img/orderlist.png?raw=true)
 
 ### Order Details
 
-![Order Details](https://github.com/Ahnaf16/ahnaf16.github.io/blob/main/assets/img/orderInfo.png?raw=true)
+![Order Details](https://github.com/Ahnaf16/admin_panal/blob/main/assets/img/orderInfo.png?raw=true)
 
 ### Flash Sell
 
-![Flash](https://github.com/Ahnaf16/ahnaf16.github.io/blob/main/assets/img/flash.png?raw=true)
+![Flash](https://github.com/Ahnaf16/admin_panal/blob/main/assets/img/flash.png?raw=true)
 
 ## About me
 
