@@ -7,11 +7,11 @@ This is a demo web app I am working on. This is a web app created using [Flutter
 ## To Do
 
 - [ ] Make tha app responsive
-- [ ] Make the app do acual work
-- [ ] Proper state management
+- [ ] Make the app do acual work (Currently Working On)
+- [ ] Proper state management (Currently Working On)
 - [ ] Add proper Routing
 - [ ] Add more Themein
-- [ ] Firebase integration
+- [ ] Firebase integration (Currently Working On)
 - [ ] Firebase Authentication
 
 ## Images
@@ -22,7 +22,7 @@ This is a demo web app I am working on. This is a web app created using [Flutter
 
 ### Order List
 
-![order_list](https://github.com/Ahnaf16/admin_panalblob/main/assets/img/orderlist.png?raw=true)
+![order_list](https://github.com/Ahnaf16/admin_panal/blob/main/assets/img/orderInfo.png?raw=true)
 
 ### Order Details
 
