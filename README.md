@@ -1,4 +1,4 @@
-# Web App : [Merchant Panel Demo](https://adminpanal-40a75.web.app/#/)
+# Web App : [Admin Panal Demo](https://ahnaf16.github.io/admin_panal/)
 
 ## About
 
