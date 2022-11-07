@@ -1,4 +1,4 @@
-# Web App : [Admin Panal Demo](https://ahnaf16.github.io/admin_panal/)
+# Web App : [Merchant Panel Demo](https://adminpanal-40a75.web.app/#/)
 
 ## About
 
@@ -6,13 +6,13 @@ This is a demo web app I am working on. This is a web app created using [Flutter
 
 ## To Do
 
-- [ ] Make tha app responsive
-- [ ] Make the app do acual work (Currently Working On)
-- [ ] Proper state management (Currently Working On)
+- [x] Make tha app responsive
+- [x] Make the app do actual work (Currently Working On)
+- [x] Proper state management (Currently Working On)
 - [ ] Add proper Routing
-- [ ] Add more Themein
-- [ ] Firebase integration (Currently Working On)
-- [ ] Firebase Authentication
+- [x] Add more Themein
+- [x] Firebase integration (Currently Working On)
+- [x] Firebase Authentication
 
 ## Images
 
